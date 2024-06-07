@@ -14,3 +14,5 @@ add pressure -> same as "add p"
 listing all active node in SensorManager
 ```remove id```
 removes a sensor at id if there is
+
+You may access the document source page: [Google Docs](https://docs.google.com/document/d/1MCpvL3y8-o_GpOjMCaN-R_nuglAMC1JWwXC-v3E_BJc/edit?usp=sharing)
